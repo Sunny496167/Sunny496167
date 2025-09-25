@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sunny Kumer!<br>🎓 3rd-year IT student at Techno Main Salt Lake, Kolkata.<br><br>🔭 Working on web and app development (React, Next.js, React Native, MERN).<br>👯 Open to collaborating on innovative projects.<br>🌱 Learning AI/ML, advanced frontend and backend.<br>💬 Ask me about React, Tailwind, and scalable apps.<br>⚡ Passionate about software engineering & exploring new tech!
+👋 Hi, I’m Sunny Kumer!<br>🎓 Final-year IT student at Techno Main Salt Lake, Kolkata.<br><br>🔭 Working on web and app development (React, Next.js, React Native, MERN).<br>👯 Open to collaborating on innovative projects.<br>🌱 Learning AI/ML, advanced frontend and backend.<br>💬 Ask me about React, Tailwind, and scalable apps.<br>⚡ Passionate about software engineering & exploring new tech!
 
 
 ## 🌐 Socials:
